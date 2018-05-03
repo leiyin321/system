@@ -36,4 +36,4 @@ service sshd restart
 google-authenticator
 
 # 会出现二维码链接、图片二维码、应急码等相关提示，用手机端扫描或输入secret key，保存应急码，其他基本默认y就可以了.
-# 相应用户再次登陆会出现“Verification code:”的提示，输入手机上的动态及原来的密码就可以登陆了。
+# 相应用户再次登陆会出现“Verification code:”的提示，输入手机上的动态码及原来的密码就可以登陆了。
